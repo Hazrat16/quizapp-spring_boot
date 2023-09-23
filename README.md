@@ -1,1 +1,1 @@
-# quizapp-spring_boot
+This is a quiz app with CRUD functionality.
